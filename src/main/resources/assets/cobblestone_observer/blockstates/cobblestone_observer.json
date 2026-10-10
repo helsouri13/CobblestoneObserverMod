@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "cobblestone_observer:block/cobblestone_observer" },
+    "powered=true":  { "model": "cobblestone_observer:block/cobblestone_observer" }
+  }
+}

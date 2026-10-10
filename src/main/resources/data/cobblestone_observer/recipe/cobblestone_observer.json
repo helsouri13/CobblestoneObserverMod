@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "COC",
+    "CCC"
+  ],
+  "key": {
+    "C": "minecraft:cobblestone",
+    "O": "minecraft:observer"
+  },
+  "result": {
+    "id": "cobblestone_observer:cobblestone_observer",
+    "count": 1
+  }
+}
