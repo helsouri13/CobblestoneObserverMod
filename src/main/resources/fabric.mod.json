@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "cobblestone-observer",
+	"id": "cobblestone_observer",
 	"version": "${version}",
 	"name": "Cobblestone Observer",
 	"description": "This is a modified observer to observer only for cobblestone",
