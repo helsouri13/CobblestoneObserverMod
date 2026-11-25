@@ -1,3 +1,6 @@
+# v 1.0.5
+- Generated better texture using chatGPT
+
 # v 1.0.4
 - Made mod id consistent with [Cobblestone Breaker Mod](https://github.com/helsouri13/cobblestone_breaker_mod)
 - Added this changelog file

@@ -3,10 +3,10 @@
 A simple mob that observes for cobblestone only when powered and if detected send a redstone signal.<br>
 A sibling mod to [CobbleStone Breaker](https://github.com/helsouri13/cobblestone_breaker_mod/)
 
-Icon and texture generated using [this pixelart generator](https://deepai.org/machine-learning-model/pixel-art-generator)
+Icon and texture generated chatGPT.
 
 # Recipe
-![alt text](recipie.png)
+![recipe](recipie.png)
 
 ## License
 
